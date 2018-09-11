@@ -1,0 +1,13 @@
+body{
+	text-align: center;
+	text-transform: uppercase;
+	background: linear-gradient(to right, red , yellow);
+}
+h1{
+	font-family: Arial;
+	font-size: 4em;
+}
+h2{
+	font-family: Arial;
+	font-size: 2em;
+}[]
